@@ -42,15 +42,14 @@ A Python-based tool to automate the process of data loading, exploratory data an
    ```bash
    git clone https://github.com/your-repository/Automated-Data-Analysis-and-Visualization-Tool.git
 
-Install required libraries:
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the script:
+2. Install required libraries:
 
-bash
-Copy code
-python automate.py
+   ```bash
+   pip install -r requirements.txt
+3. Run the script:
+
+   ```bash
+   python automate.py
 Provide the file path of the dataset when prompted and follow the instructions.
 
