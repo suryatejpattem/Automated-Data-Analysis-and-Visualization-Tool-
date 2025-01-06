@@ -5,12 +5,6 @@ import seaborn as sns
 from tabulate import tabulate
 
 
-#C:\\Users\\SURYA TEJ\\Downloads\\Alzheimer_s_Disease_and_Healthy_Aging_Data_20241216.csv
-#C:\\Users\\SURYA TEJ\\Downloads\\Diwali Sales Data.csv
-#C:\Users\SURYA TEJ\Downloads\Electric_Vehicle_Population_Data.csv
-#C:\\Users\\SURYA TEJ\\Downloads\\default+of+credit+card+clients\\default of credit card clients.xls
-
-
 #-----Loading the dataset-----#
 def load_dataset(file_path):
     try:
